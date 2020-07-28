@@ -111,9 +111,9 @@ h6 {
 }
 
 .banner {
-    padding: 100px 0;
+    padding: 250px 0;
     color: #f8f8f8;
-    background: url(../img/banner-rodape.png) no-repeat center center;
+    background: url(../img/banner.jpg) fixed no-repeat center center;
     background-size: cover;
 }
 
@@ -192,20 +192,16 @@ p.copyright {
 
 ul.banner-social-buttons li {
   display: inline-block;
-  margin-right: 5px;
-  margin-bottom: 8px;
 }
 ul.banner-social-buttons i {
-  width: 40px;
-  height: 40px;
-  -moz-border-radius: 20px;
-  -webkit-border-radius: 20px;
-  border-radius: 20px;
+  width: 60px;
+  height: 60px;
+  border-radius: 40px;
   background: #f66c73;
   color: #fff;
   text-align: center;
-  font-size: 1.25rem;
-  line-height: 3rem;
+  font-size: 2.00rem;
+  line-height: 4.5rem;
 }
 ul.banner-social-buttons a:hover i {
   -moz-transition: all 0.2s linear;
