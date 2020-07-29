@@ -2,12 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://dayanacouto.com.br
-title: Dayana Couto
+# Site Settings
+locale: "pt-BR"
+name: "Dayana Couto - Coach de Carreira"
+url: https://dayanacouto.com.br
+title: Dayana Couto - Coach de Carreira
 email: dayanaclf@gmail.com
-author: Dayana Couto
-description: > # "Write an awesome description for your new site here. 
-  Coach profissional,Palestrante e Analista Comportamental pelo Instituto Brasileiro de Coaching e, em breve, Practitioner em Programação Neurolinguística pelo Instituto Rompendo Limites, especializada em desenvolvimento profissional. Criadora do Programa PróCarreira, com mais de  80 horas de atuação contribuindo para potencializar pessoas para serem (mais) felizes, especialmente em suas carreiras, florescendo vida na vida delas! 
+author: Dayana Couto - Coach de Carreira
+description: "Coach profissional,Palestrante e Analista Comportamental pelo Instituto Brasileiro de Coaching e, em breve, Practitioner em Programação Neurolinguística pelo Instituto Rompendo Limites, especializada em desenvolvimento profissional. Criadora do Programa PróCarreira, com mais de  80 horas de atuação contribuindo para potencializar pessoas para serem (mais) felizes, especialmente em suas carreiras, florescendo vida na vida delas!" 
 copyright: 'Copyright &copy; 2020 - Dayana Couto - Coach de Carreira. Todos os direitos reservados.'
 
 # ----------------------- #
