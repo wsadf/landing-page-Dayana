@@ -2,4 +2,4 @@
 # This file should be at the root of your project
 [build]
   command = "JEKYLL_ENV=\"production\" jekyll build"
-  Jekyll build publish="_site"
+  publish="_site"
