@@ -35,3 +35,13 @@ social:
     url: https://www.linkedin.com/in/dayana-couto-10ab727b/
 
 destination: _site
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages

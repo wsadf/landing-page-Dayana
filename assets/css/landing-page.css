@@ -182,12 +182,12 @@ p.copyright {
 }
 
 .banner-treinamento{
-    max-width: 370px;
-    display: block;
-    margin:20px auto 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
     height: 150px;
     background: url(../img/banner-treinamento.jpg) no-repeat;
-    background-size: contain;
+    background-size: cover;
 }
 
 ul.banner-social-buttons li {
@@ -210,6 +210,23 @@ ul.banner-social-buttons a:hover i {
   transition: all 0.2s linear;
   background: #fff;
   color: #f66c73
+}{
+
+}
+.botao-agende-video{
+  color: #fff;
+  border-radius: 5px;
+  background-color: #f66c73;
+  padding: 10px;
+  font-weight: bold;
+  margin: 20px 0;
+  width: 100%;
+  text-align: center;
+}
+
+.botao-agende-video a{
+  color: #fff;
+  display: block;
 }
 
 .m-0 { margin:0!important; }
