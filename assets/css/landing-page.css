@@ -27,13 +27,19 @@ h6 {
 }
 
 .intro-header {
-    /*padding-top: 103px;*/ /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
-    /*padding-bottom: 103px;*/
-    text-align: center;
-    height: 817px;
-    color: #f8f8f8;
+    margin-top: 103px;
     background: url(../img/banner-guia-topo.png) no-repeat center top;
     background-size: cover;
+    height: 81.7vw;
+    max-height: 817px;
+}
+
+@media (max-width: 768px){
+  .intro-header{
+    background-image: url(../img/banner-five.jpg);
+    height: 62.5vw;
+    max-height: 625px;
+  }
 }
 
 .intro-message {
