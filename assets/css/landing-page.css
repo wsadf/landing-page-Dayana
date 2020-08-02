@@ -187,7 +187,17 @@ p.copyright {
     align-items: flex-end;
     height: 150px;
     background: url(../img/banner-treinamento.jpg) no-repeat;
-    background-size: cover;
+    background-size: contain;
+}
+
+.banner-agendamento{
+  display: flex;
+  justify-content: center;
+  background: url(../img/agendamento.jpg) no-repeat;
+  background-size: contain;
+  max-width: 903px;
+  height: 93px;
+  margin:20px auto 0;
 }
 
 ul.banner-social-buttons li {
