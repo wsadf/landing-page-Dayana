@@ -8,7 +8,7 @@ body,
 html {
     width: 100%;
     height: 100%;
-    font-size: 14px;
+    font-size: 1rem;
 }
 
 body,
@@ -190,20 +190,16 @@ p.copyright {
 .banner-treinamento{
     display: flex;
     justify-content: center;
-    align-items: flex-end;
-    height: 150px;
-    background: url(../img/banner-treinamento.jpg) no-repeat;
-    background-size: contain;
+    flex-direction: column;
+    background: #f66c73;
+    padding: 10px;
 }
 
 .banner-agendamento{
   display: flex;
-  justify-content: center;
-  background: url(../img/agendamento.jpg) no-repeat;
-  background-size: contain;
-  max-width: 903px;
-  height: 93px;
-  margin:20px auto 0;
+  justify-content: center;;
+  background: #f66c73;
+  padding: 10px
 }
 
 ul.banner-social-buttons li {
