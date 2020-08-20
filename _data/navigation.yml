@@ -1,0 +1,15 @@
+nav:
+  - title: "Início"
+    section: home
+    
+  - title: "Programa PróCarreira"
+    section: programa
+
+  - title: "Sobre mim"
+    section: sobre
+
+  - title: "Depoimentos"
+    section: depoimentos
+
+  - title: "Contatos"
+    section: contatos

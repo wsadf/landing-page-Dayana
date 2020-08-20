@@ -1,8 +1,8 @@
 ---
-layout: default
-img: blog-1.jpg
-category: Services
 title: Denir Mainart, 2018
-description: |
+layout: default
+img: foto-1.jpg
+category: Services
 ---
+
 “Conheci a Dayana em nossa formação em Coaching. Fui sua primeira cliente e o que mais me encantou nela foi sua dedicação e entrega durante o curso e em nosso processo... estava me sentindo perdida em relação a minha vida profissional, pois embora já tenha uma longa carreira consolidada, sentia que ainda algo faltava. E, para minha satisfação, em nossa terceira sessão meu objetivo de obter clareza em relação as escolhas que eu precisava fazer para redirecionar minha vida profissional, foi alcançado. Hoje, 2 anos depois, estou vivendo a concretização desse sonho e dessa decisão. Só tenho a dizer, gratidão!” Denir Mainart, 2018
