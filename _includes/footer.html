@@ -6,7 +6,7 @@
                 <ul class="list-inline">
                 {%- for link in site.data.navigation.nav -%} 
                 <li>
-                 <a class="page-scroll" href="{{ link.section }}">{{ link.title }}</a>
+                 <a class="page-scroll" href="#{{ link.section }}">{{ link.title }}</a>
                 </li>
                 {% if forloop.index <= 4 %}
                 <li class="footer-menu-divider">&sdot;</li>
