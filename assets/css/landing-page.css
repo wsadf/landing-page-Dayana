@@ -28,10 +28,10 @@ h6 {
 
 .intro-header {
     margin-top: 103px;
-    background: url(../img/banner-guia-topo.png) no-repeat center top;
+    background: url(../img/banner.png) no-repeat center top;
     background-size: cover;
-    height: 81.7vw;
-    max-height: 817px;
+    height: 60.0vw;
+    max-height: 600px;
 }
 
 @media (max-width: 768px){
@@ -189,7 +189,6 @@ p.copyright {
 
 .banner-treinamento{
     display: flex;
-    justify-content: center;
     flex-direction: column;
     background: #f66c73;
     padding: 10px;
