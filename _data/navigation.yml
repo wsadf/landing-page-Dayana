@@ -2,8 +2,8 @@ nav:
   - title: "Início"
     section: home
     
-  - title: "Programa PróCarreira"
-    section: programa
+  - title: "Meus serviços"
+    section: servicos
 
   - title: "Sobre mim"
     section: sobre
