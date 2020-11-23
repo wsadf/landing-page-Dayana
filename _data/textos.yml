@@ -12,7 +12,11 @@ raio:
 
 felicidade:
   title: "Programa “A Procura da Felicidade”"
-  text: "Obtenha clareza do que, de fato, te motiva e dá razão aos seus esforços e a sua felicidade para construir a ponte entre o que te faz feliz e o que você faz da vida! <br><br>Processo Individualizado e Personalizado: Encontros que te ajudarão a alcançar e/ou se aproximar ao máximo de seus objetivos, obtendo as mudanças e resultados que tanto deseja." 
+  text: "Obtenha clareza do que, de fato, te motiva e dá razão aos seus esforços e a sua felicidade para construir a ponte entre o que te faz feliz e o que você faz da vida!" 
+
+processo:
+  title: "Processo Individualizado e Personalizado"
+  text: "Encontros que te ajudarão a alcançar e/ou se aproximar ao máximo de seus objetivos, obtendo as mudanças e resultados que tanto deseja"
 
 sobre:
   title: "Sobre mim"
