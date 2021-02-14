@@ -28,7 +28,7 @@ h6 {
 
 .intro-header {
     margin-top: 103px;
-    background: url(../img/banner-melhor.png) no-repeat center top;
+    background: url(../img/banner-raio.png) no-repeat center top;
     background-size: cover;
     height: 70.0vw;
     max-height: 700px;
@@ -36,7 +36,7 @@ h6 {
 
 @media (max-width: 768px){
   .intro-header{
-    background-image: url(../img/banner-mobile.jpg);
+    background-image: url(../img/banner-raio-mobile.png);
     height: 100.0vw;
     max-height: 600px;
   }
