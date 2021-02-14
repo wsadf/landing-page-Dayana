@@ -21,6 +21,12 @@ h6 {
     font-family: "Work Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.link-title{
+  color: #333
+}
+.link-title:hover{
+  color: #f66c73
+}
 .lead {
     font-size: 18px;
     font-weight: 400;
