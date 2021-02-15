@@ -5,4 +5,4 @@ img: foto-5.png
 category: Services
 ---
 
-“Por incrível que pareça, você pode acreditar no que eu vou te falar, mas eu aprendi muito naquela noite, aprendi muito! Eu e a Flavinha sempre temos falado sobre você, sobre o SBC... Então assim, tá sendo muito bom lembrar...  aquele dia não sai da nossa cabeça. Foi uma ajuda muito grande!”
+“Por incrível que pareça, você pode acreditar no que eu vou te falar, mas eu aprendi muito no Workshop, aprendi muito! Eu e a Flavinha sempre temos falado sobre você, sobre o SBC... Então assim, tá sendo muito bom lembrar...  aquele dia não sai da nossa cabeça. Foi uma ajuda muito grande!”
